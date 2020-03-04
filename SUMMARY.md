@@ -4,7 +4,8 @@
 * [Embedded files](embedded-files.md)
 * [imported md file - example](mdfile.md)
 
-## g
+## customers
 
-* [Group1](g/g1.md)
+* [Categories page](customers/categories.md)
+* [create](create.md)
 
