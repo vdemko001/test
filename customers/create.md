@@ -2,5 +2,5 @@
 description: Сreate customer
 ---
 
-# create
+# Create customer
 
