@@ -6,5 +6,6 @@
 
 ## customers-group <a id="."></a>
 
+* [categories](categories.md)
 * [customers](customers.md)
 
