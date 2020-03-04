@@ -6,6 +6,6 @@
 
 ## customers
 
-* [Categories page](customers/categories.md)
-* [create](create.md)
+* [Categories page](customers/categories/README.md)
+  * [Create Category page](customers/categories/create.md)
 
