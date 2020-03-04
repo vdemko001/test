@@ -7,6 +7,7 @@
 ## customers-group <a id="."></a>
 
 * [Customers](customers/README.md)
+  * [create](customers/create.md)
   * [Сreate category](customers/createcategory.md)
   * [Categories](customers/categories.md)
 
