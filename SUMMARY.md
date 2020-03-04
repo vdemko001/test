@@ -8,4 +8,5 @@
 
 * [Categories page](customers/categories/README.md)
   * [Create Category page](customers/categories/create.md)
+* [Customers page](customers-1.md)
 
