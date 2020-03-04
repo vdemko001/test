@@ -6,6 +6,6 @@
 
 ## customers-group <a id="."></a>
 
-* [customers](customers/README.md)
+* [customers page](customers/README.md)
   * [categories](customers/categories.md)
 
