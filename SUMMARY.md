@@ -6,5 +6,5 @@
 
 ## customers
 
-* [Customers](initial.md)
+* [initial](initial.md)
 
