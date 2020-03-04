@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-* [General info __]()
-* [Technologies]()
-* [Setup]()
+* [General info \_\_](mdfile.md)
+* [Technologies](mdfile.md)
+* [Setup](mdfile.md)
 
 ## General info
 
@@ -27,6 +27,4 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
-
-
 
