@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-* [General info]()
+* [General info __]()
 * [Technologies]()
 * [Setup]()
 
